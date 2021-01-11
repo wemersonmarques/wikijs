@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2021-01-11T16:08:20.234Z
+date: 2021-01-11T16:09:04.654Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-11T15:42:02.558Z
@@ -13,3 +13,4 @@ Your content here
 
 
 
+![](./diagram.bpmn)
