@@ -2,7 +2,7 @@
 title: Vendas e Faturamento
 description: Documentação do Módulo Vendas e Faturamento
 published: true
-date: 2021-01-15T16:19:58.461Z
+date: 2021-01-15T16:20:31.563Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-15T16:11:45.828Z
@@ -14,11 +14,3 @@ Mussum Ipsum, cacilds vidis litro abertis. Viva Forevis aptent taciti sociosqu a
 
 ## Processos
 ### Vendas
-#### Cotação
-#### Pedidos
-##### [Fatu2022] Pedido de Venda
-##### [Fatu2028] Caixa Frente de Loja
-##### [Fatu2029] Pedidos Simplificados
-#### Cupons
-### Transmissão de Notas Fiscais
-
